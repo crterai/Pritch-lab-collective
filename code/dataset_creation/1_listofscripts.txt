@@ -1,0 +1,5 @@
+List of scripts in ./code/dataset_creation
+
+---------------------------------------
+Date          User      Script
+2018-09-06    terai     create_netcdfs.py
