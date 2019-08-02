@@ -12,5 +12,8 @@ River discharge data from GRDC:
       
 CaMa output for physiology project:
       Path to output on Greenplanet: /DFS-B/DATA/pritchard/mdfowler/CaMaOutput_Physiology
-              Related CESM variables: /data22/pritchard2/mdfowler/ Flooding-Physiology/RelatedCESMvariables
+              Related CESM variables: /data22/pritchard2/mdfowler/Flooding-Physiology/RelatedCESMvariables
               Raw runoff: /data22/pritchard2/mdfowler/ Flooding-physiology/rawRunoff 
+
+GPI output (scripts are located in folder here):
+      Path to data on Greenplanet: /data22/pritchard2/mdfowler/TC/GPI_daily
