@@ -2,7 +2,9 @@
 
 Long running CAM/SPCAM pairs: 
       Fully-coupled 30-year simulations of historical and RCP forcing, run under CESM1.1.X. 
-      The source code tree is also available (). 
+      
+      The source code tree is also available in the below Greenplanet folder - for SP: SPCESM-mvapich. For noSP - SPCESM. 
+      They are the same with the exception of a different MPI library (due to technical issues running on KNL). 
       
       Path to output on Greenplanet: /DFS-B/DATA/pritchard/mdfowler/Long_CAM_SPCAM_Simulations
       Data simulations are also archived in longterm storage (Ranch) on Stampede2 (xsede). 
